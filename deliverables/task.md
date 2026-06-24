@@ -1,0 +1,13 @@
+- [x] **Phase 1: Setup & Environment (9:00 AM)**
+  - [x] Create project files directory (`/scratch/project-decay-portfolio/`)
+  - [x] Initialize `index.html` structure with semantic SEO tags
+  - [x] Initialize `index.css` defining the brand color tokens and type pairing (Manrope + Public Sans)
+- [x] **Phase 2: Core Narrative & Architecture**
+  - [x] Build Hero section detailing predictive behavioral decay vs standard lapse metrics
+  - [x] Implement interactive toggle switch comparing the 30-Day Standard vs the 14-21 Day Sweet Spot
+  - [x] Layout the 3-stage user journey timeline with asymmetric card elements
+  - [x] Build interactive mobile device preview tabs showcasing the Stitch-generated UI mockups
+- [x] **Phase 3: Polish & Deployment**
+  - [x] Verify total compliance with the "No-Line" rule (no 1px solid borders)
+  - [x] Validate responsive CSS layouts on multiple screen widths
+  - [x] Launch local mock server to verify UI behavior
